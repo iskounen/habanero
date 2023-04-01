@@ -7,5 +7,8 @@ This is a database for historical data.
 ```console
 git clone git@github.com:iskounen/habanero.git
 cd habanero
-rails run
+bundle install
+rails db:migrate
+rails db:seed
+rails server
 ```
