@@ -1,24 +1,11 @@
-# README
+# Habanero
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a database for historical data.
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```console
+git clone git@github.com:iskounen/habanero.git
+cd habanero
+rails run
+```
